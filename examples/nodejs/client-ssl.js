@@ -1,8 +1,11 @@
 #!/usr/bin/env node
 
+// var BLYNK_TEMPLATE_ID = "TMPLugNX7UBq";
+// var BLYNK_DEVICE_NAME = "Raspberry Pi ClumzyaziD";
+
 var Blynk = require('blynk-library');
 
-var AUTH = 'YOUR_AUTH_TOKEN';
+var AUTH = 'E0otAVUJgmidEnUzN6CMT72Z8p4NCP1M';
 
 var blynk = new Blynk.Blynk(AUTH);
 

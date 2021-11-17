@@ -2,7 +2,7 @@
 
 var Blynk = require('blynk-library');
 
-var AUTH = 'YOUR_AUTH_TOKEN';
+var AUTH = 'W84d5Pbe1B2PFwWVn9EdrlEgZHRS2Ky2';
 
 var blynk = new Blynk.Blynk(AUTH,
   options= { addr:"127.0.0.1", port:9443 }
